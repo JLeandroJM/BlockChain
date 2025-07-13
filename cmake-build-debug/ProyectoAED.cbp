@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ProyectoAED"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\homebrew\;CMake Files\..\..\..\..\opt\homebrew\lib\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\;CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProyectoAED">
+				<Option output="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/ProyectoAED" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/."/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/hash_funcion"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/blockchain"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/sfml"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProyectoAED"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ProyectoAED/fast">
+				<Option output="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/ProyectoAED" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/."/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/hash_funcion"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/blockchain"/>
+					<Add directory="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/sfml"/>
+					<Add directory="/opt/homebrew/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ProyectoAED/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/blockchain/block.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/blockchain/blockchain.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/blockchain/transaccion.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras/b+tree.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras/double_list.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras/hash.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras/heap.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/estructuras/trie.h">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/main.cpp">
+			<Option target="ProyectoAED"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/../../../../opt/homebrew/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/jleandrojm/CLION/proyecto-proyecto-grupo-4/../../../../opt/homebrew/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\homebrew\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
